@@ -1,9 +1,3 @@
-library("DT")
-library("shiny")
-library("ggplot2")
-library("shinydashboard")
-library("rsconnect")
-
 
 
 data<-read.csv("https://raw.githubusercontent.com/dannyleese/Best-NBA-Season-Ever/master/sortablerankings.csv")
